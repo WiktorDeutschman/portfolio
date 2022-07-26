@@ -6,7 +6,9 @@ I am a software tester who takes up new challenges with commitment. I am looking
 
 ## Tools
 
-* **Databases:** MSSQL, MySQL
+* **Databases:** MS SQL, MySQL
 * **Operating Systems:** Windows, Linux
 * **Version control systems:** GIT
 * **Management methodologies:** SCRUM
+* **Test management tools:** Jira, Postman
+
