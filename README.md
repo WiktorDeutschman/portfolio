@@ -19,4 +19,5 @@ I am a software tester who takes up new challenges with commitment. I am looking
 
 ## Groups for knowledge gathering
 
-[Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)
