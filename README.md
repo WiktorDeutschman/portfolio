@@ -12,3 +12,6 @@ I am a software tester who takes up new challenges with commitment. I am looking
 * **Management methodologies:** SCRUM
 * **Test management tools:** Jira, Postman
 
+## Courses
+
+* Certified ISTQB tester course - basic level (20 hours)
